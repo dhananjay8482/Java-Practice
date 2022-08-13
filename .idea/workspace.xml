@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d93d39e7-34a2-4804-a41b-50e784ab0e63" name="Changes" comment="Hackerrank Repeated String Added">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/PalindromeIndex.java" afterDir="false" />
+    <list default="true" id="d93d39e7-34a2-4804-a41b-50e784ab0e63" name="Changes" comment="String PalindromeIndex">
+      <change afterPath="$PROJECT_DIR$/src/Logics/EvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logics/LinearSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660151866102</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="String PalindromeIndex">
+      <created>1660326198169</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660326198169</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Armstrong and Prime Added" />
     <MESSAGE value="Hackerrank Repeated String Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hackerrank Repeated String Added" />
+    <MESSAGE value="String PalindromeIndex" />
+    <option name="LAST_COMMIT_MESSAGE" value="String PalindromeIndex" />
   </component>
 </project>
