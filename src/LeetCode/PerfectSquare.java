@@ -1,6 +1,6 @@
 package LeetCode;
 
-//Find Perfect square Interger without using power function
+//Find Perfect square root Interger without using power function
 //SOLVING USING BINARY SEARCH
 
 public class PerfectSquare {
