@@ -1,6 +1,7 @@
 package Logics;
 
 public class BinaryTree {
+//    BINARY SEARCH
 
     public static void main(String[] args) {
         System.out.println("Binary Search Applied only Sorted array");

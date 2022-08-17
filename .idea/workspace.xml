@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d93d39e7-34a2-4804-a41b-50e784ab0e63" name="Changes" comment="Mountain Array problems amd Infinite Array problem added">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/CountBinaryRotationList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SearchRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SplitArray.java" afterDir="false" />
+    <list default="true" id="d93d39e7-34a2-4804-a41b-50e784ab0e63" name="Changes" comment="Rotated Binary Search problems and Google Split Search added">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/MissingNumberCyclic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logics/SortingAlgo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logics/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logics/BinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660586667289</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Rotated Binary Search problems and Google Split Search added">
+      <created>1660672393076</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660672393076</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Rotated Binary Search problems and Google Split Search added">
+      <created>1660672411217</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660672411217</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,7 +152,8 @@
     <MESSAGE value="Seperate numbers from String Hackerank Solution" />
     <MESSAGE value="Binary Tree, Ceilling Florring problem and Perfect Squar root Added" />
     <MESSAGE value="Mountain Array problems amd Infinite Array problem added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mountain Array problems amd Infinite Array problem added" />
+    <MESSAGE value="Rotated Binary Search problems and Google Split Search added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rotated Binary Search problems and Google Split Search added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
